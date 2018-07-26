@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "5b5971e19316f2c082bc0a0f",
+    "index": 0,
+    "guid": "84d797c2-c735-4ccd-879b-fbe53bc9ef3b",
+    "username": "Stuart Grant",
+    "email": "stuartgrant@surelogic.com",
+    "doj": "Tue Dec 28 1971 07:36:47 GMT+0530 (India Standard Time)",
+    "role": "Jill",
+    "status": true,
+    "action": true
+  },
+  {
+    "_id": "5b5971e190c5dfe4bcb9f759",
+    "index": 1,
+    "guid": "ca8d7354-15b8-49a1-87ad-54027c4ac142",
+    "username": "Rowena Hines",
+    "email": "rowenahines@surelogic.com",
+    "doj": "Sun Feb 12 2017 11:02:33 GMT+0530 (India Standard Time)",
+    "role": "Fuentes",
+    "status": false,
+    "action": true
+  },
+  {
+    "_id": "5b5971e18f978c5b9410e8bf",
+    "index": 2,
+    "guid": "72c31c07-8788-4cfe-9989-8e7d123de098",
+    "username": "Elliott Franklin",
+    "email": "elliottfranklin@surelogic.com",
+    "doj": "Mon Nov 11 1985 17:05:07 GMT+0530 (India Standard Time)",
+    "role": "Arnold",
+    "status": true,
+    "action": true
+  },
+  {
+    "_id": "5b5971e1336b7baecae8c35d",
+    "index": 3,
+    "guid": "1b06a2c0-947f-452c-a8a8-1ddaad81b2e1",
+    "username": "Myra Moran",
+    "email": "myramoran@surelogic.com",
+    "doj": "Fri Oct 16 2015 12:59:21 GMT+0530 (India Standard Time)",
+    "role": "Gallegos",
+    "status": true,
+    "action": false
+  },
+  {
+    "_id": "5b5971e13f9cb11c858fd970",
+    "index": 4,
+    "guid": "b0cba280-2631-42a1-b981-25995d039260",
+    "username": "Rollins Snider",
+    "email": "rollinssnider@surelogic.com",
+    "doj": "Thu Dec 10 2015 22:06:00 GMT+0530 (India Standard Time)",
+    "role": "Amy",
+    "status": false,
+    "action": false
+  }
+]
